@@ -26,4 +26,8 @@ The "SaleDate" Column is in DATETIME format, and I am only interested in the DAT
  * Deleted Unwanted Columns:  
  Finally, I deleted columns that are irrelevant and unwanted.
  
- ## CONTACT
+ ## CONTACT:
+ For project, collaboration, recommendation, or correction on my work, please reach out to me on the following:
+* hafizdabo@gmail.com 
+* +2348039138334 | call and whatsapp
+* https://wwww.linkedin.com/in/hafizdabo
