@@ -1,4 +1,4 @@
-# Cleaning Housing Data in SQL
+# Cleaning Data in SQL
 
 ## Overview  
 This project is aimed at cleaning Nashville Housing Data using SQL. I first explored the data and checked for data quality, then fixed errors, 
