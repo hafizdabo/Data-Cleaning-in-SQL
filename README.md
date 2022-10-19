@@ -10,7 +10,7 @@ The Data used contained (56,477 rows) before cleaning. It is provided in the rep
 * Microsoft SQL Server 
 * SQL Server Management Studio
 
-## Skills and Steps deployed:  
+## Skills and Steps:  
 * Standardized Date Format:  
 The "SaleDate" Column is in DATETIME format, and I am only interested in the DATE part of it. So i used CONVERT() function for this operation.
 
